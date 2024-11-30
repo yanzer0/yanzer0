@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, Eu sou o Yan</h1>
-<h3 align="center">Estudante de Python e Análise de Dados e apaixonado pelas infinitas possibilidades que as linhas de código proporcionam</h3>
+<h3 align="center">Estudante de Análise de Dados e apaixonado pelas infinitas possibilidades e insights que as análises proporcionam</h3>
 
-- 🔭 Estou atualmente trabalhando na criação de programas e automações utilizando Python **Conversor ZPL to PDF**
+- 🔭 Estou atualmente trabalhando na criação de **Dashboards Interativos**
 
-- 🌱 Atualmente estou estudando **Power BI e criação de programas e automações com Python**
+- 🌱 Atualmente estou estudando **Análise de Dados e BI utilizando Power BI e Python**
 
-- 🤝 Estou procurando ajuda para criar **Um chatbot para whatsapp que responde automaticamente utilizando IA**
+- 🤝 Estou aberto a **Discussões sobre como a IA pode auxiliar na análise de dados**
 
 - 💬 Me pergunte sobre **Python, Análise e Manipulação de Dados, Automações**
 
-- 📫 Você me acha no e-mail **yanbg16@hotmail.com**
+- 📫 Você me acha no e-mail **yanbg21@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
