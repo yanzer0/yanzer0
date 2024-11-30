@@ -12,6 +12,7 @@
 - 📫 Você me acha no e-mail **yanbg21@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
+**LinkedIn:** https://www.linkedin.com/in/yan-botossi-galasso-931111328/
 <p align="left">
 </p>
 
