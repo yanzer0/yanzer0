@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, Eu sou o Yan</h1>
 <h3 align="center">Estudante de Análise de Dados e apaixonado pelas infinitas possibilidades e insights que as análises proporcionam</h3>
 
-- 🔭 Estou atualmente trabalhando na criação de **Dashboards Interativos**
+- 🔭 Estou atualmente trabalhando na criação de **Dashboards Interativos** e **Visualização de Dados**
 
 - 🌱 Atualmente estou estudando **Análise de Dados e BI utilizando Power BI e Python**
 
