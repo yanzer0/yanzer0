@@ -45,7 +45,7 @@ I fix that. Every site I build starts with research: what do customers see when 
 ### 🔗 [Infuser](https://infuserinter.com)
 
 <a href="https://infuserinter.com">
-<img src="assets/infuser-preview.png" alt="Infuser website" width="100%" />
+<img src="infuser-preview.png" alt="Infuser website" width="100%" />
 </a>
 
 **My own platform.** Next.js site with narrative-driven copy, interactive revenue loss calculator, embedded Credibility Census tool, and scroll-triggered animations. The site practices what I preach.
@@ -58,7 +58,7 @@ I fix that. Every site I build starts with research: what do customers see when 
 ### 🔗 [MasterDatabase](https://masterdatabase.com.br)
 
 <a href="https://masterdatabase.com.br">
-<img src="assets/masterdatabase-preview.png" alt="MasterDatabase website" width="100%" />
+<img src="masterdatabase-preview.png" alt="MasterDatabase website" width="100%" />
 </a>
 
 **Database consulting firm** with 13+ years and clients like XP Inc, PicPay, and Energisa. Full redesign: animated 3D hero, tech stack marquee, conversion-focused service pages, mobile-first.
