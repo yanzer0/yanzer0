@@ -28,6 +28,20 @@ digital credibility infrastructure
 
 <br/>
 
+<br/>
+
+## About me
+
+I'm Yan, 25, from Sao Paulo, Brazil. Self-taught designer and developer - everything I know about web design, frontend, and UX I learned by building real projects, breaking things, and studying obsessively.
+
+Currently studying Data Science at university, which shapes how I think about conversion metrics, user behavior, and data-driven design decisions.
+
+I'm a heavy AI user and study it daily - not as a buzzword, but as a core part of how I work, write, research, and build faster without cutting quality.
+
+Beyond Infuser, I'm also Co-Founder of a startup building solutions for cloud environments (AWS, Azure, MongoDB Atlas, GCP, OCI).
+
+<br/>
+
 ## What I do
 
 Most small businesses lose clients before they ever make contact. Someone gets a referral, searches the business name, finds a weak digital presence, and leaves. No call. No message. No signal.
