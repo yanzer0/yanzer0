@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1A2210&height=200&section=header&text=&fontSize=0" width="100%" />
 
 <a href="https://infuserinter.com">
-<img src="https://infuserinter.com/assets/logo/lockup-sem-fundo.png" alt="Infuser" height="48" />
+<img src="https://infuserinter.com/assets/logo/lockup-sem-fundo.png" alt="Infuser" height="72" />
 </a>
 
 <br/><br/>
