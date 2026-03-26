@@ -3,20 +3,14 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1A2210&height=200&section=header&text=&fontSize=0" width="100%" />
 
 <a href="https://infuserinter.com">
-<img src="https://infuserinter.com/assets/logo/lockup-sem-fundo.png" alt="Infuser" height="196" />
+<img src="https://infuserinter.com/assets/logo/lockup-sem-fundo.png" alt="Infuser" height="72" />
 </a>
 
 <br/><br/>
 
-```
-digital credibility infrastructure
-```
+<img src="https://readme-typing-svg.demolab.com/?lines=Founder+of+Infuser;Web+Designer+%26+Developer;Digital+Credibility+Infrastructure;I+build+websites+that+earn+trust&font=Inter&color=A8E84C&size=22&center=true&vCenter=true&width=500&height=45&pause=1000&duration=3000" />
 
-# I build websites that earn trust at first search.
-
-**Founder of [Infuser](https://infuserinter.com)** - I design and develop conversion-focused websites<br/>for local businesses that are already good at what they do<br/>but don't prove it digitally.
-
-<br/>
+<br/><br/>
 
 <img src="https://img.shields.io/badge/Web_Design-F0F0E4?style=flat-square&logoColor=000" />
 <img src="https://img.shields.io/badge/Web_Development-F0F0E4?style=flat-square&logoColor=000" />
@@ -28,17 +22,33 @@ digital credibility infrastructure
 
 <br/>
 
-<br/>
-
 ## About me
 
-I'm Yan, 25, from Sao Paulo, Brazil. Self-taught designer and developer - everything I know about web design, frontend, and UX I learned by building real projects, breaking things, and studying obsessively.
+```yaml
+name: Yan Galasso
+location: Sao Paulo, Brazil
+age: 25
+role: Founder @ Infuser | Co-Founder @ cloud startup
 
-Currently studying Data Science at university, which shapes how I think about conversion metrics, user behavior, and data-driven design decisions.
+approach: Self-taught designer & developer.
+          Everything I know about web design, frontend, and UX
+          I learned by building real projects and studying obsessively.
 
-I'm a heavy AI user and study it daily - not as a buzzword, but as a core part of how I work, write, research, and build faster without cutting quality.
+education: Data Science (in progress)
+           Shapes how I think about conversion metrics,
+           user behavior, and data-driven design decisions.
 
-Beyond Infuser, I'm also Co-Founder of a startup building solutions for cloud environments (AWS, Azure, MongoDB Atlas, GCP, OCI).
+ai: Heavy user and daily student.
+    Not as a buzzword, but as a core part of how I work,
+    write, research, and build faster without cutting quality.
+
+currently_building:
+  - Credibility infrastructure for local businesses (Infuser)
+  - Cloud environment solutions (AWS, Azure, GCP, OCI, MongoDB Atlas)
+
+philosophy: "Most businesses are already good at what they do.
+             They just don't prove it digitally."
+```
 
 <br/>
 
