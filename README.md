@@ -118,7 +118,7 @@ I fix that. Every site I build starts with research: what do customers see when 
 <a href="https://infuserinter.com">
 <img src="https://img.shields.io/badge/infuserinter.com-A8E84C?style=for-the-badge&logoColor=000" />
 </a>
-<a href="https://www.linkedin.com/in/yan-botossi-galasso-931111328/">
+<a href="https://www.linkedin.com/in/yangalasso/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:hello@infuserinter.com">
