@@ -9,7 +9,7 @@
 
 <br/><br/>
 
-**Yan Galasso** · Founder @ Infuser
+**Yan Galasso** · Founder @ Infuser<br/>
 AI for B2B operations · São Paulo, Brazil
 
 <br/>
@@ -31,11 +31,11 @@ I lead the technical side: the systems, the integrations and the agents.
 
 <br/>
 
-## Protocolo Catalisador
+## Catalyst Protocol
 
 **Why it exists.** Automating a process nobody has mapped only makes its waste run faster. What people say they do and what they actually do can differ, and the gap is where the cost hides. So before we build anything, we look.
 
-<p align="center"><img src="assets/catalisador-fluxo.png" alt="Protocolo Catalisador flow" width="100%"></p>
+<p align="center"><img src="assets/catalyst-protocol-flow.png" alt="Catalyst Protocol flow" width="100%"></p>
 
 **What you get:** a map of how the process runs today, a proposed flow, a ranked list of opportunities and a plan to compare before and after.
 
