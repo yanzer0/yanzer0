@@ -35,24 +35,9 @@ I lead the technical side: the systems, the integrations and the agents.
 
 **Why it exists.** Automating a process nobody has mapped only makes its waste run faster. What people say they do and what they actually do can differ, and the gap is where the cost hides. So before we build anything, we look.
 
-```mermaid
-flowchart LR
-  A[Observe a real case] --> B[Map the current process]
-  B --> C[Redesign and prioritize]
-  C --> D[Validate side by side]
-  D --> E[Automate and expand]
-  classDef s fill:#171717,stroke:#C6FF34,color:#F0F0E4;
-  class A,B,C,D,E s;
-```
+<p align="center"><img src="assets/catalisador-fluxo.png" alt="Protocolo Catalisador flow" width="100%"></p>
 
-**What you get**
-
-- A map of how the process runs today, with the evidence behind it
-- A proposed flow, explaining every change
-- A ranked list of opportunities, with effort and how confident we are in each estimate
-- A plan to compare before and after, so gains are measured, not assumed
-
-Nothing replaces how your team works until it has been tested side by side with the current way.
+**What you get:** a map of how the process runs today, a proposed flow, a ranked list of opportunities and a plan to compare before and after.
 
 <br/>
 
@@ -75,6 +60,22 @@ Client systems are private. What is public is the products we also sell at [usei
 
 <br/>
 
+## Panels
+
+Screens from the Painel OS we run for clients. Client values and personal data are hidden. The files screen comes from our test environment.
+
+<p><img src="assets/painel-clinica-predio.jpg" alt="Agents map" width="100%"><br><sub><b>Agents map.</b> Everything the company has, by area, marked as live, coming soon or on request.</sub></p>
+
+<p><img src="assets/painel-rentalhub-agentes.jpg" alt="Agents" width="100%"><br><sub><b>Agents.</b> One card per job, asked for in the chat.</sub></p>
+
+<p><img src="assets/painel-rentalhub-fluxo-cadastro-carros.jpg" alt="How one works" width="100%"><br><sub><b>How one works.</b> Six steps from lookup to cost entry, and it stops to ask when a value looks off.</sub></p>
+
+<p><img src="assets/painel-rentalhub-automacao-resultado.jpg" alt="Every run reports back" width="100%"><br><sub><b>Every run reports back.</b> What happened, with the result one click away.</sub></p>
+
+<p><img src="assets/painel-saas-arquivos-hover.jpg" alt="Files" width="100%"><br><sub><b>Files.</b> Originals organized by folder, always within reach.</sub></p>
+
+<br/>
+
 ## Stack
 
 <div align="center">
@@ -83,11 +84,18 @@ Client systems are private. What is public is the products we also sell at [usei
 ![Node.js](https://img.shields.io/badge/Node.js-171717?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E)
 ![React](https://img.shields.io/badge/React-171717?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-171717?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-171717?style=for-the-badge&logo=mongodb&logoColor=47A248)
+![Vite](https://img.shields.io/badge/Vite-171717?style=for-the-badge&logo=vite&logoColor=FFD62E)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-171717?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)
+![SQLite](https://img.shields.io/badge/SQLite-171717?style=for-the-badge&logo=sqlite&logoColor=66B5E0)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-171717?style=for-the-badge&logo=postgresql&logoColor=4169E1)
 ![n8n](https://img.shields.io/badge/n8n-171717?style=for-the-badge&logo=n8n&logoColor=EA4B71)
+![Playwright](https://img.shields.io/badge/Playwright-171717?style=for-the-badge&logo=playwright&logoColor=2EAD33)
+![Docker](https://img.shields.io/badge/Docker-171717?style=for-the-badge&logo=docker&logoColor=2496ED)
+![Caddy](https://img.shields.io/badge/Caddy-171717?style=for-the-badge&logo=caddy&logoColor=1F88C0)
 ![Claude Code](https://img.shields.io/badge/Claude_Code-171717?style=for-the-badge&logo=claude&logoColor=D97757)
+![Codex](https://img.shields.io/badge/Codex-171717?style=for-the-badge&logo=openai&logoColor=white)
 
-AWS · Azure · GCP
+MCP (Model Context Protocol) · Tailscale · Backblaze B2
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020202,100:143A31&height=100&section=footer" width="100%" />
 
