@@ -15,11 +15,9 @@ I build AI systems that run inside B2B operations · São Paulo, Brazil
 <br/>
 
 <a href="https://useinfuser.com"><img src="https://img.shields.io/badge/useinfuser.com-C6FF34?style=for-the-badge&logoColor=000" /></a>
+<a href="https://www.linkedin.com/in/yangalasso/"><img src="https://img.shields.io/badge/LinkedIn-171717?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://instagram.com/yangalasso"><img src="https://img.shields.io/badge/@yangalasso-171717?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 <a href="mailto:yangalasso@useinfuser.com"><img src="https://img.shields.io/badge/Email-171717?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<!-- DECISION (Yan): LinkedIn badge removed on purpose. The brain records the profile as outdated (still the web-development chapter). Put it back only after updating the profile:
-<a href="https://www.linkedin.com/in/yangalasso/"><img src="https://img.shields.io/badge/LinkedIn-171717?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
--->
 
 </div>
 
@@ -74,18 +72,13 @@ There is also a free Central with 67 guides and packages, from the first prompt 
 
 ## Panels
 
-A screen from the Painel OS, shown here from our test environment.
+Screens from the Painel OS, the panel our clients work in. The files screen comes from our test environment.
+
+<p><img src="assets/painel-clinica-predio.jpg" alt="Agents map" width="100%"><br><sub><b>Agents map.</b> Everything the company has, by area, marked as live, coming soon or on request.</sub></p>
 
 <p><img src="assets/painel-saas-arquivos-hover.jpg" alt="Files" width="100%"><br><sub><b>Files.</b> Originals organized by folder, always within reach.</sub></p>
 
-<!-- DECISION (Yan): the four prints below are hidden by default. In the files as they are, the header still shows the client's name and logo, and the screens show third-party system names (Manheim, DealPack) and the client's location. Clause 8 of the Auto Select contract allows a public mention only after prior validation of the content by the client and without operational data, and the card has no record of that validation. Restore them only after Hercilio approves the content, or after the names are covered. The Clinic print shows the client's name in the header and also has no recorded authorization.
-
-<p><img src="assets/painel-clinica-predio.jpg" alt="Agents map" width="100%"><br><sub><b>Agents map.</b> Everything the company has, by area, marked as live, coming soon or on request.</sub></p>
-<p><img src="assets/painel-rentalhub-agentes.jpg" alt="Agents" width="100%"><br><sub><b>Agents.</b> One card per job, asked for in the chat.</sub></p>
-<p><img src="assets/painel-rentalhub-fluxo-cadastro-carros.jpg" alt="How one works" width="100%"><br><sub><b>How one works.</b> Six steps from lookup to cost entry, and it stops to ask when a value looks off.</sub></p>
-<p><img src="assets/painel-rentalhub-automacao-resultado.jpg" alt="Every run reports back" width="100%"><br><sub><b>Every run reports back.</b> What happened, with the result one click away.</sub></p>
--->
-
+<!-- DECISION (Yan): three more prints are hidden (agents, one agent flow, run result). They show a client name, a client location and third-party system names. Clause 8 of the Auto Select contract allows a public mention only after prior validation of the content by the client and without operational data. Restore them only after Hercilio approves the content. Files are in C:\tmp\readme-prints. -->
 <br/>
 
 ## Stack
